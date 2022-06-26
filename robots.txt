@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://peter-yatsyshin.netlify.app/sitemap.xml
+Sitemap: https://petya.netlify.app/sitemap.xml
