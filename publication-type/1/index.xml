@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Academic</title>
-    <link>https://example.com/publication-type/1/</link>
-      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bejewelled-conkies-bae171.netlify.app/publication-type/1/</link>
+      <atom:link href="https://bejewelled-conkies-bae171.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://bejewelled-conkies-bae171.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://example.com/publication-type/1/</link>
+      <link>https://bejewelled-conkies-bae171.netlify.app/publication-type/1/</link>
     </image>
     
     <item>
       <title>Physics-constrained Bayesian inference of state functions in classical density-functional theory</title>
-      <link>https://example.com/publication/paper_2/</link>
+      <link>https://bejewelled-conkies-bae171.netlify.app/publication/paper_2/</link>
       <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/paper_2/</guid>
+      <guid>https://bejewelled-conkies-bae171.netlify.app/publication/paper_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper - 1</title>
-      <link>https://example.com/publication/paper_1/</link>
+      <link>https://bejewelled-conkies-bae171.netlify.app/publication/paper_1/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/paper_1/</guid>
+      <guid>https://bejewelled-conkies-bae171.netlify.app/publication/paper_1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
