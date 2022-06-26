@@ -6,7 +6,7 @@ hugo
 
 # mv public/* ../test
 
-rsync -r public/ ../peter_blog_deploy
+rsync -r public/ ../deploy
 
 git --git-dir=../deploy/.git add -A
 
