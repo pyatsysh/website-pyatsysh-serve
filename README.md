@@ -1,3 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5dd061dc-e75c-421b-8070-9d7e3eba9b3e/deploy-status)](https://app.netlify.com/sites/petya/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e75a6082-0557-4f11-a1b0-8aa6fcc77ed4/deploy-status)](https://app.netlify.com/sites/petya/deploys)
 
 The website is here https://petya.netlify.app/
