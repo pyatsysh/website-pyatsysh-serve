@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo deploying..
+
+hugo
+
+# mv public/* ../test
+
+rsync -r public/ ../peter_blog_deploy
+
+git --git-dir=../deploy/.git add -A
+
+git --git-dir=../deploy/.git commit -m 'scripted update'
+
+git --git-dir=../deploy/.git status
+
+# git --git-dir=../peter_blog_deploy add -A
+# git --git-dir=../peter_blog_deploy commit -m 'scripted update'
+# git --git-dir=../peter_blog_deploy status
+# git push
+
+echo done
