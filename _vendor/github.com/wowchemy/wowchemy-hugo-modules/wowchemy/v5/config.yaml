@@ -10,7 +10,7 @@ markup:
   highlight:
     codeFences: true
     noHl: true
-    lineNumbersInTable: false
+    lineNumbersInTable: true
     noClasses: false
   tableOfContents:
     startLevel: 2

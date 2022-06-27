@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: theme1
-  theme_night: theme1
+  # theme_night: theme1
   font: minimal
   font_size: L
 
@@ -62,11 +62,15 @@ locale:
 features:
   syntax_highlighter:
     enable: true
+    theme_light: xcode-dark
+    theme_dark: xcode-dark
+    # theme: xcode-dark
     extra_languages:
       - r
       - latex
+      - python
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -75,7 +79,7 @@ features:
     branch: '' # production
   avatar:
     gravatar: false
-    shape: square
+    shape: square # other option is circle
   comment: 
     provider: 'comment_script' # we are overriding. This is a name of file in layouts/partials/comments
     disqus:
@@ -89,7 +93,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: ''
     api_key: ''

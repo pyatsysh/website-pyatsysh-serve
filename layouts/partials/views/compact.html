@@ -27,13 +27,18 @@
 {{ else if $item.Summary }}
   {{ $summary = $item.Summary }}
 {{ end }}
+
 <ol start = "{{ $item.Params.enumerate_ind }}">
 <li>
 <div class="media stream-item view-compact">
   <div class="media-body">
 
     <div class="article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }} ({{- $item.Date.Format "2006" -}})</a>
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }} 
+        {{ if $item.Params.is_title_year }}
+        ({{- $item.Date.Format "2006" -}})
+        {{ end }}
+      </a>
     </div>
     
     {{ with $summary }}

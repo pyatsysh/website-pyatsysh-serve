@@ -16,11 +16,11 @@
   <url>
     <loc></loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://petya.netlify.app/publication/</loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://petya.netlify.app/journal-articles/</loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://petya.netlify.app/publication/paper_2/</loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://petya.netlify.app/journal-articles/paper_2/</loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://petya.netlify.app/publication_types/</loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -28,21 +28,13 @@
   <url>
     <loc>https://petya.netlify.app/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://petya.netlify.app/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://petya.netlify.app/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://petya.netlify.app/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://petya.netlify.app/blog/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://petya.netlify.app/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://petya.netlify.app/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://petya.netlify.app/blog/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://petya.netlify.app/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://petya.netlify.app/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://petya.netlify.app/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -50,14 +42,18 @@
   <url>
     <loc>https://petya.netlify.app/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://petya.netlify.app/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://petya.netlify.app/research/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://petya.netlify.app/project/project_1/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://petya.netlify.app/research/project_1/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://petya.netlify.app/project/project_2/</loc><lastmod>2011-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://petya.netlify.app/research/project_2/</loc><lastmod>2011-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://petya.netlify.app/tag/this-is-tag/</loc><lastmod>2011-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2011-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://petya.netlify.app/publication/paper_1/</loc><lastmod>2011-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://petya.netlify.app/journal-articles/paper_1/</loc><lastmod>2011-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://petya.netlify.app/admin/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://petya.netlify.app/categories/</loc><changefreq>weekly</changefreq></url></urlset>
