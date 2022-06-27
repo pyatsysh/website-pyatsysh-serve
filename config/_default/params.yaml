@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: theme1
+  theme_day: minimal #theme1
   # theme_night: theme1
   font: minimal
   font_size: L
@@ -113,5 +113,3 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
-
-

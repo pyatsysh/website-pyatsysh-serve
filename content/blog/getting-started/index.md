@@ -42,6 +42,7 @@ categories:
 
 commentable: true
 highlight: true
+share: false # a stripe at the end will appear with sharing options
 ---
 
 ## Overview
@@ -54,7 +55,6 @@ highlight: true
 import numpy as np
 for i in range(10):
   print(i)
-
 ```
 
 ```latex
@@ -75,7 +75,7 @@ $$
 {{< /math >}}
 
 
-```python
+```
 # Example of code highlighting
 input_string_var = input("Enter some data: ")
 print("You entered: {}".format(input_string_var))
