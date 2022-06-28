@@ -53,7 +53,7 @@ share: false # a stripe at the end will appear with sharing options
 
 ```python
 import numpy as np
-for i in range(10):
+for i in np.arange(10):
   print(i)
 ```
 

@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal #theme1
-  # theme_night: theme1
+  theme_day: nord #theme1
+  theme_night: nord
   font: minimal
   font_size: L
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright: 
-    notice: '© {year} Petr Yatsyshin. This work is licensed under CC BY NC ND 4.0'
+    notice: ''
     license:
       enable: true
       allow_derivatives: false
@@ -59,16 +59,16 @@ locale:
 
 # Site features
 
+# highlight_style: dracula
+
 features:
   syntax_highlighter:
     enable: true
-    theme_light: xcode-dark
-    theme_dark: xcode-dark
-    # theme: xcode-dark
-    extra_languages:
-      - r
+    extra_languages:      
       - latex
       - python
+    theme_light: xcode-light
+    theme_dark: xcode-light
   math:
     enable: true
   privacy_pack:
@@ -88,7 +88,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
@@ -103,7 +103,7 @@ features:
 
 extensions:
   cms:
-    branch: produciton
+    branch: main
     local_backend: false
   academicons:
     enable: false # this enables to add a CV icon, next to eamil, twitter, etc

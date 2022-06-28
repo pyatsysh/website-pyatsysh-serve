@@ -70,11 +70,62 @@ email: ''
 highlight_name: true
 ---
 
+```
+\documentclass{article}
+
+\begin{document}
+Primer documento. Este es un ejemplo simple, sin incluir ningún parámetro (opción) o paquete extra.
+\end{document}
+```
+
 ```python
 import numpy as np
+
 for i in range(10):
   print(i)
 ```
+
+```
+import numpy as np
+
+for i in range(10):
+  print(i)
+```
+
+{{< highlight python >}}
+import numpy as np
+
+for i in range(10):
+  print(i)
+{{< /highlight >}}
+
+
+{{< highlight html >}}
+<section id="main">
+  <div>
+    <h1 id="title">{{ .Title }}</h1>
+    {{ range .Data.Pages }}
+      {{ .Render "summary"}}
+    {{ end }}
+  </div>
+</section>
+{{< /highlight >}}
+
+without python keyword
+```
+# Example of code highlighting
+input_string_var = input("Enter some data: ")
+print("You entered: {}".format(input_string_var))
+```
+
+with python keyword
+```python
+# Example of code highlighting
+input_string_var = input("Enter some data: ")
+print("You entered: {}".format(input_string_var))
+```
+
+$$E=mc^2$$
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
