@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: nord #theme1
-  theme_night: nord
+  theme_day: theme1 #theme1
+  theme_night: theme1
   font: minimal
   font_size: L
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright: 
-    notice: ''
+    notice: '© {year} Petr Yatsyshin. This work is licensed under CC BY NC ND 4.0'
     license:
       enable: true
       allow_derivatives: false
