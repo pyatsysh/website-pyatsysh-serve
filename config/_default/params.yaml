@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: theme1 #theme1
-  theme_night: theme1
-  font: minimal
-  font_size: L
+  theme_day: theme2
+  # theme_night: theme2
+  font: font2
+  font_size: XL
 
 # SEO
 
@@ -67,8 +67,8 @@ features:
     extra_languages:      
       - latex
       - python
-    theme_light: xcode-light
-    theme_dark: xcode-light
+    theme_light: nord
+    theme_dark: nord
   math:
     enable: true
   privacy_pack:

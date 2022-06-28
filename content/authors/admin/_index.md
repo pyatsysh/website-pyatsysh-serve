@@ -1,17 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti The Third2
+title: Peter Yatsyshin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: '' #Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/complex-multiscale-systems/our-group/dr-peter-yatsyshin/
+  - name: The Alan Turing Institute
+    url: https://www.turing.ac.uk/people/researchers/peter-yatsyshin 
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,7 +73,9 @@ email: ''
 highlight_name: true
 ---
 
-```
+
+
+```latex
 \documentclass{article}
 
 \begin{document}

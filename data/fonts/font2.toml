@@ -1,0 +1,43 @@
+# Font style metadata
+name = "font2"
+
+# Optional Google font URL
+# google_fonts = "family=Mountains+of+Christmas:wght@400;700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900"
+
+
+
+google_fonts = "family=Headland+One&family=Fredericka+the+Great&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Roboto+Mono&family=Roboto:wght@400;700&family=Mountains+of+Christmas:wght@400;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900"
+
+
+
+# Font families
+
+#Heading of a section
+heading_font = "Fredericka the Great" #"EB Garamond" 
+
+# main body of text
+body_font =  "Crimson Text" #"EB Garamond"
+
+# in the main menu
+nav_font = "Headland One" #"Mountains of Christmas"
+
+# code blocks
+mono_font = "Roboto Mono" 
+
+
+# E.G.:
+# For this google link: 
+
+# <link rel="preconnect" href="https://fonts.googleapis.com">
+# <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+# <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+
+# for google link:
+# <link href="https://fonts.googleapis.com/css2?family=B612+Mono&family=Open+Sans&# display=swap" rel="stylesheet">
+
+# set:
+# google_fonts = "family=B612+Mono&family=Open+Sans"
+
+# for font-family
+# font-family: 'B612 Mono', monospace;, 
+# copy B612 Mono

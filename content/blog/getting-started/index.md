@@ -47,6 +47,8 @@ share: false # a stripe at the end will appear with sharing options
 
 ## Overview
 
+This post is the second of a two-part series on early Monte Carlo methods from the 1940s and 1950s. In my previous post I gave an overview of Monte Carlo methods in the 40s and focused on the 1949 conference in Los Angeles. In this post I’ll go over the classic paper Equation of State Calculations by Fast Computing Machines (1953) by Nick Metropolis and co-authors. I’ll give an overview of the paper and its main results and then give some context about how it was written. I’ll then delve into some details of how the MANIAC computer worked to give an idea of what it must have been like to write algorithms such as MCMC on it.
+
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more

@@ -3,11 +3,12 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# pygmentsCodefences: true
-# pygmentsStyle: pygments
+title: Peter Yatsyshin # Website name
+baseURL: 'https://petya.netlify.app/' # Website URL
 
-title: Academic # Website name
-baseURL: 'https://petya.netlify.app/' # Website URL: commenting engine needs it!
+
+# pygmentsCodefences: true
+# pygmentsStyle: "vs"
 
 ############################
 ## LANGUAGE
@@ -57,8 +58,8 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
-# markup:
-#   _merge: deep
+markup:
+  _merge: deep
 related:
   threshold: 80
   includeNewer: true
@@ -72,4 +73,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
