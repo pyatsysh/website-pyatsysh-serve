@@ -57,10 +57,10 @@ print(&amp;#34;You entered: {}&amp;#34;.format(input_string_var))
 &lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; srcset=&#34;
-               /blog/getting-started/im1_hu0d72fb96fdf0ee84e95315e7fee6ace5_241549_a5df6f616a655c8c9183dda1f75ffc9c.webp 400w,
+               /blog/getting-started/im1_hu0d72fb96fdf0ee84e95315e7fee6ace5_241549_1fd9115fa55cf4c5da9535ba9c44fbae.webp 400w,
                /blog/getting-started/im1_hu0d72fb96fdf0ee84e95315e7fee6ace5_241549_136d42b42dfe225e0942974e7c91818e.webp 760w,
                /blog/getting-started/im1_hu0d72fb96fdf0ee84e95315e7fee6ace5_241549_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://petya.netlify.app/blog/getting-started/im1_hu0d72fb96fdf0ee84e95315e7fee6ace5_241549_a5df6f616a655c8c9183dda1f75ffc9c.webp&#34;
+               src=&#34;https://petya.netlify.app/blog/getting-started/im1_hu0d72fb96fdf0ee84e95315e7fee6ace5_241549_1fd9115fa55cf4c5da9535ba9c44fbae.webp&#34;
                width=&#34;760&#34;
                height=&#34;407&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
