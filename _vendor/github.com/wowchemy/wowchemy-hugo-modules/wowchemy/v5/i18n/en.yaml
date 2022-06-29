@@ -99,7 +99,7 @@
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: Favorite Tech Stack
 
 - id: education
   translation: Education

@@ -4,30 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  # - name: About
-  #   url: '#about'
-  #   weight: 10
-  # - name: Posts
-  #   url: '#posts'
-  #   weight: 20
-  - name: Research
-    url: 'research/'
+  
+  - name: About
+    url: '#about'
     weight: 30
 
-  - name: Journal Articles
-    url: 'journal-articles/'
-    weight: 40
 
-  - name: Blog
-    url: 'blog/'
-    weight: 50
+  # - name: Research
+  #   url: 'research/'
+  #   weight: 30
+
+  # - name: Journal Articles
+  #   url: 'journal-articles/'
+  #   weight: 40
+
+  # - name: Blog
+  #   url: 'blog/'
+  #   weight: 50
   
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 60
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70

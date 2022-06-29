@@ -10,33 +10,37 @@ role: '' #Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Imperial College London
-    url: https://www.imperial.ac.uk/complex-multiscale-systems/our-group/dr-peter-yatsyshin/
   - name: The Alan Turing Institute
     url: https://www.turing.ac.uk/people/researchers/peter-yatsyshin 
+  
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/complex-multiscale-systems/our-group/dr-peter-yatsyshin/
+  
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include applied probability, machine learning and statistical
 
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computational Statistical Physics
+      institution: "[Imperial College London](https://www.imperial.ac.uk/)"
+      year: 2014
+    - course: MSc in Theoretical Physics
+      institution: "[St-Petersburg Polytechnical University](https://english.spbstu.ru/)"
+      year: 2007
+    - course: BSc in Theoretical Physics
+      institution: "[St-Petersburg Polytechnical University](https://english.spbstu.ru/)"
+      year: 2005
+
+# Renamed tech stack in en.yaml
+interests:
+  - JAX, Python/Numpy
+  - NumPyro
+  - FEniCS 
+  - MATLAB
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,76 +76,17 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hi, I'm Peter and I live in London. I'm a theoretical physicist who discovered machine learning and fell in love with it. My current research interests are applied probability and computational statistics. I am a research associate at The Alan Turing Institute, working [Andrew Duncan](https://www.turing.ac.uk/people/researchers/andrew-duncan) on scalable methods for statistical inference and machine learning.
 
+Before that I worked in classical statistical mechanics of soft matter, developing models of interface motion and phase transitions. I did my PhD at Imperial College in the area of computational methods for PDEs, arising in classical density functional theory. My supervisor was [Serafim Kalliadasis](https://www.imperial.ac.uk/people/s.kalliadasis).
 
-
-```latex
-\documentclass{article}
-
-\begin{document}
-Primer documento. Este es un ejemplo simple, sin incluir ningún parámetro (opción) o paquete extra.
-\end{document}
-```
-
-```python
-import numpy as np
-
-for i in range(10):
-  print(i)
-```
-
-```
-import numpy as np
-
-for i in range(10):
-  print(i)
-```
-
-{{< highlight python >}}
-import numpy as np
-
-for i in range(10):
-  print(i)
-{{< /highlight >}}
-
-
-{{< highlight html >}}
-<section id="main">
-  <div>
-    <h1 id="title">{{ .Title }}</h1>
-    {{ range .Data.Pages }}
-      {{ .Render "summary"}}
-    {{ end }}
-  </div>
-</section>
-{{< /highlight >}}
-
-without python keyword
-```
-# Example of code highlighting
-input_string_var = input("Enter some data: ")
-print("You entered: {}".format(input_string_var))
-```
-
-with python keyword
-```python
-# Example of code highlighting
-input_string_var = input("Enter some data: ")
-print("You entered: {}".format(input_string_var))
-```
-
-$$E=mc^2$$
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 <table class="table table-borderless">
   <thead>
     <tr>
-      <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_business.pdf" "newtab" >}}Business CV   {{< /staticref >}}</th>
-      <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_academic.pdf" "newtab" >}}Academic CV   {{< /staticref >}}</th>
-      <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_teaching.pdf" "newtab" >}}Teaching Statement{{< /staticref >}}</th>
+      <!-- <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_business.pdf" "newtab" >}}Business CV   {{< /staticref >}}</th> -->
+      <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Yatsyshin_Academic_CV.pdf" "newtab" >}}Academic CV   {{< /staticref >}}</th>
+      <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Yatsyshin_Teaching_Statement.pdf" "newtab" >}}Teaching Statement{{< /staticref >}}</th>
     </tr>
   </thead>
 </table>
