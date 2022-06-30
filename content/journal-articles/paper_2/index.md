@@ -20,13 +20,13 @@ date: '2022-02-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Chemical Physics, 156(7), p.074105, DOI: 10.1063/5.0071629"
@@ -78,6 +78,5 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
-commentable: true
-
+commentable: false
 ---

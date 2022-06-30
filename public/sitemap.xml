@@ -10,7 +10,7 @@
   <url>
     <loc>https://petya.netlify.app/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://petya.netlify.app/publication-type/1/</loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://petya.netlify.app/publication-type/2/</loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://petya.netlify.app/journal-articles/</loc><lastmod>2022-02-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -41,6 +41,8 @@
     <loc>https://petya.netlify.app/research/project_2/</loc><lastmod>2011-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://petya.netlify.app/tag/this-is-tag/</loc><lastmod>2011-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://petya.netlify.app/publication-type/1/</loc><lastmod>2011-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://petya.netlify.app/journal-articles/paper_1/</loc><lastmod>2011-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

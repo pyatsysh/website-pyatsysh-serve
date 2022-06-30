@@ -64,7 +64,7 @@
   translation: PDF
 
 - id: btn_cite
-  translation: Cite
+  translation: BibTex
 
 - id: btn_slides
   translation: Slides
@@ -99,7 +99,7 @@
 # About widget
 
 - id: interests
-  translation: Favorite Tech Stack
+  translation: Preferred Stack
 
 - id: education
   translation: Education
@@ -157,7 +157,7 @@
   translation: Abstract
 
 - id: publication
-  translation: Publication
+  translation: publication
 
 - id: publication_type
   translation: Type
