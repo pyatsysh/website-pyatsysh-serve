@@ -1,15 +1,17 @@
 ---
-title: 'Mixing-demixing transition in polymer-grafted spherical nanoparticles'
-enumerate_ind: 19 # enumeration index 
+title: 'Unification of dynamic density functional theory for colloidal fluids to include inertia and hydrodynamic interactions: derivation and numerical experiments'
+enumerate_ind: 5 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - B. Goddard
+  - A. Nold
+  - N. Savva
   - admin
-  - N. G. Fytas 
-  - E. Theodorakis
+  - S. Kalliadasis
 
 
 # Author notes (optional)
@@ -17,7 +19,7 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2020-02-16T00:00:00Z'
+date: '2013-04-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +32,7 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Soft Matter, 15, 703, DOI: 10.1039/c9sm01639b"
+publication: "Journal of Physics: Condensed Matter, 25, 035101, DOI: 10.1088/0953-8984/25/3/035101"
 publication_short: ''
 
 abstract: This is paper N
@@ -46,7 +48,10 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: https://doi.org/10.1039/C9SM01639B 
+  url: http://iopscience.iop.org/0953-8984/25/3/035101?fromSearchPage=true 
+
+- name: Imperial College Highlight
+  url: http://tinyurl.com/z9mm4rt
 
 url_pdf: ''
 url_code: ''

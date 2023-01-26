@@ -1,15 +1,16 @@
 ---
-title: 'Density functional study of condensation in capped capillaries'
-enumerate_ind: 7 # enumeration index 
+title: 'Dynamics of the Desai-Zwanzig model in multiwell and random energy landscapes'
+enumerate_ind: 17 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - N. Savva 
+  - S. N. Gomes
   - S. Kalliadasis
+  - G. A. Pavliotis
+  - admin
 
 
 # Author notes (optional)
@@ -17,7 +18,7 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2015-02-16T00:00:00Z'
+date: '2019-02-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +31,7 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Physics: Condensed Matter, 27, 275104, DOI: 10.1088/0953-8984/27/27/275104"
+publication: "Physical Review E, 99, 032109, DOI: 10.1103/PhysRevE.99.032109"
 publication_short: ''
 
 abstract: This is paper N
@@ -46,7 +47,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: http://iopscience.iop.org/0953-8984/27/27/275104/ 
+  url: https://link.aps.org/doi/10.1103/PhysRevE.99.032109 
 
 url_pdf: ''
 url_code: ''

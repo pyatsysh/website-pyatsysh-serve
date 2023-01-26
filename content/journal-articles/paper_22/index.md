@@ -1,6 +1,6 @@
 ---
-title: 'Structure of electron-positron clusters: Hartree-Fock approximation'
-enumerate_ind: 2 # enumeration index 
+title: 'Physics-constrained Bayesian inference of state functions in classical density-functional theory'
+enumerate_ind: 22 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
@@ -8,17 +8,15 @@ is_title_year: true # add year to title
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - R. G. Polozkov 
-  - V. K. Ivanov
-  - A. V. Solovyov
-
+  - S. Kalliadasis
+  - A. B. Duncan
 
 # Author notes (optional)
 author_notes: 
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2009-02-16T00:00:00Z'
+date: '2022-02-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
@@ -31,10 +29,10 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Physica Scripta, 80, 048126, DOI: 10.1088/0031-8949/80/04/048126"
+publication: "Journal of Chemical Physics, 156 (7), 074105, DOI: 10.1063/5.0071629"
 publication_short: ''
 
-abstract: This is paper N
+abstract: This is paper 2 short abstract ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: ' ' #Shortened abstract. Leave space or else long abstract will appear
@@ -47,7 +45,10 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: http://iopscience.iop.org/1402-4896/80/4/048126 
+  url: https://aip.scitation.org/doi/10.1063/5.0071629
+
+- name: NeurIPS workshop
+  url: https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_86.pdf
 
 url_pdf: ''
 url_code: ''

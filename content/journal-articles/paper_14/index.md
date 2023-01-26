@@ -1,16 +1,15 @@
 ---
-title: 'Pseudospectral methods for density functional theory in bounded and unbounded domains'
-enumerate_ind: 10 # enumeration index 
+title: 'Wetting of a plane with a narrow solvophobic stripe'
+enumerate_ind: 14 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - A. Nold
-  - B. D. Goddard
   - admin
-  - N. Savva 
+  - A. O. Parry
+  - C. Rascon 
   - S. Kalliadasis
 
 
@@ -19,7 +18,7 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2016-03-16T00:00:00Z'
+date: '2018-01-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +31,7 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Computational Physics, 334, 639, DOI: 10.1016/j.jcp.2016.12.023"
+publication: "Molecular Physics, 116, 1990, DOI: 10.1080/00268976.2018.1473648"
 publication_short: ''
 
 abstract: This is paper N
@@ -48,7 +47,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: http://dx.doi.org/10.1016/j.jcp.2016.12.023 
+  url: https://www.tandfonline.com/doi/full/10.1080/00268976.2018.1473648
 
 url_pdf: ''
 url_code: ''

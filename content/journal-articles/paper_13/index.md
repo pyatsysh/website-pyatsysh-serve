@@ -1,16 +1,17 @@
 ---
-title: 'Classical density functional study of wetting transitions on nanopatterned surfaces'
-enumerate_ind: 11 # enumeration index 
+title: 'General framework for fluctuating dynamic density functional theory'
+enumerate_ind: 13 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - M. A. Duran-Olivencia 
   - admin
-  - A. O. Parry 
-  - C. Rascon 
+  - B. D. Goddard 
   - S. Kalliadasis
+
 
 
 # Author notes (optional)
@@ -18,7 +19,7 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2017-01-16T00:00:00Z'
+date: '2017-03-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +32,7 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Physics: Condensed Matter, 29, 094001, DOI: 1361-648X/aa4fd7"
+publication: "New Journal of Physics, 19, 123022, DOI: 10.1088/1367-2630/aa9041"
 publication_short: ''
 
 abstract: This is paper N
@@ -47,7 +48,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: http://dx.doi.org/10.1088/1361-648X/aa4fd7 
+  url: http://iopscience.iop.org/article/10.1088/1367-2630/aa9041 
 
 url_pdf: ''
 url_code: ''

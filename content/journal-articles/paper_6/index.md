@@ -1,15 +1,14 @@
 ---
-title: 'Memory effects in fluctuating dynamic density-functional theory: theory and simulations'
-enumerate_ind: 18 # enumeration index 
+title: 'Wetting of prototypical one- and two-dimensional systems: thermodynamics and density functional theory'
+enumerate_ind: 6 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - A. Russo
-  - M. A. Duran-Olivencia
   - admin
+  - N. Savva 
   - S. Kalliadasis
 
 
@@ -18,7 +17,7 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2020-01-16T00:00:00Z'
+date: '2015-01-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +30,7 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Physics A: Mathematical and Theoretical, 53, 445007, DOI: 10.1088/1751-8121/ab9e8d"
+publication: "Journal of Chemical Physics, 142, 034708, DOI: 10.1063/1.4905605"
 publication_short: ''
 
 abstract: This is paper N
@@ -47,7 +46,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: https://doi.org/10.1088/1751-8121/ab9e8d 
+  url: http://scitation.aip.org/content/aip/journal/jcp/142/3/10.1063/1.4905605 
 
 url_pdf: ''
 url_code: ''

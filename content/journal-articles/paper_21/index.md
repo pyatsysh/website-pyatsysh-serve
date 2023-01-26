@@ -1,6 +1,6 @@
 ---
-title: 'Spectral methods for the equations of classical density-functional theory: relaxation dynamics of microscopic films'
-enumerate_ind: 3 # enumeration index 
+title: 'Surface nanodrops and nanobubbles: a classical density functional theory study'
+enumerate_ind: 21 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
@@ -8,7 +8,6 @@ is_title_year: true # add year to title
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - N. Savva
   - S. Kalliadasis
 
 
@@ -17,7 +16,7 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2012-02-16T00:00:00Z'
+date: '2021-02-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,10 +29,10 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Chemical Physics, 136, 124113, DOI: 10.1063/1.3697471"
+publication: "Journal of Fluid Mechanics, 913 (1), DOI: 10.1017/jfm.2020.1167"
 publication_short: ''
 
-abstract: This is paper N
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: ' ' #Shortened abstract. Leave space or else long abstract will appear
@@ -46,7 +45,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: http://scitation.aip.org/content/aip/journal/jcp/136/12/10.1063/1.3697471 
+  url: https://doi.org/10.1017/jfm.2020.1167
 
 url_pdf: ''
 url_code: ''

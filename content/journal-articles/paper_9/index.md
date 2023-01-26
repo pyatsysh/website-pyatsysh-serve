@@ -1,6 +1,6 @@
 ---
-title: 'Microscopic aspects of wetting using classical density-functional theory'
-enumerate_ind: 15 # enumeration index 
+title: 'Mean-field phenomenology of wetting in nanogrooves'
+enumerate_ind: 9 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
@@ -8,7 +8,6 @@ is_title_year: true # add year to title
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - M. A. Duran-Olivencia
   - S. Kalliadasis
 
 
@@ -17,7 +16,7 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2018-02-16T00:00:00Z'
+date: '2016-02-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +29,7 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Physics: Condensed Matter, 30, 274003, DOI: DOI: 10.1088/1361-648X/aac6fa"
+publication: "Molecular Physics, 114, 2688, DOI: 10.1080/00268976.2016.1224393"
 publication_short: ''
 
 abstract: This is paper N
@@ -46,7 +45,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: http://iopscience.iop.org/article/10.1088/1361-648X/aac6fa/meta 
+  url: http://dx.doi.org/10.1080/00268976.2016.1224393 
 
 url_pdf: ''
 url_code: ''

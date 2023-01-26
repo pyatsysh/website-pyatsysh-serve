@@ -1,19 +1,15 @@
 ---
-title: 'A finite-volume method for fluctuating dynamical density functional theory'
-enumerate_ind: 20 # enumeration index 
+title: 'Geometry-induced phase transition in fluids: Capillary prewetting'
+enumerate_ind: 4 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - A. Russo
-  - S. Perez
-  - M. A. Duran-Olivencia
-  - admin 
-  - J. A. Carillo
+  - admin
+  - N. Savva
   - S. Kalliadasis
-  
 
 
 # Author notes (optional)
@@ -21,7 +17,7 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2020-02-16T00:00:00Z'
+date: '2013-02-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +30,7 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Computational Physics, 428 (1), 109796, DOI: 10.1016/j.jcp.2020.109796"
+publication: "Physical Review E: Rapid Communication, 87, 020402(R), DOI: 10.1103/PhysRevE.87.020402"
 publication_short: ''
 
 abstract: This is paper N
@@ -50,7 +46,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: https://doi.org/10.1016/j.jcp.2020.109796
+  url: http://journals.aps.org/pre/abstract/10.1103/PhysRevE.87.020402 
 
 url_pdf: ''
 url_code: ''

@@ -1,15 +1,16 @@
 ---
-title: 'Complete Prewetting'
-enumerate_ind: 8 # enumeration index 
+title: 'General framework for nonclassical nucleation'
+enumerate_ind: 16 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - M. A. Duran-Olivencia 
   - admin
-  - A. O. Parry 
   - S. Kalliadasis
+  - J. F. Lutsko
 
 
 # Author notes (optional)
@@ -17,11 +18,11 @@ author_notes:
   - '' #'Equal contribution'
   - '' #'Equal contribution'
 
-date: '2016-01-16T00:00:00Z'
+date: '2018-02-16T00:00:00Z'
 doi: #'10.1063/5.0071629'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-01-01T00:00:00Z'
+publishDate: '2022-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,7 +31,7 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Physics: Condensed Matter, 28, 275001, DOI: 10.1088/0953-8984/28/27/275001"
+publication: "Nuew Journal of Physics, 20, 083019, DOI: 10.1088/1367-2630/aad170"
 publication_short: ''
 
 abstract: This is paper N
@@ -46,10 +47,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: URL
-  url: http://stacks.iop.org/0953-8984/28/i=27/a=275001
-
-- name: Journal Highlight
-  url: https://jphysplus.iop.org/2016/06/23/derjaguin-in-flatland-prewetting-spreads-out/ 
+  url: http://iopscience.iop.org/article/10.1088/1367-2630/aad170/meta 
 
 url_pdf: ''
 url_code: ''
