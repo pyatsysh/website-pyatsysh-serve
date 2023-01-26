@@ -1,6 +1,6 @@
 ---
 title: 'Physics-constrained Bayesian inference of state functions in classical density-functional theory'
-enumerate_ind: 4 # enumeration index 
+enumerate_ind: 22 # enumeration index 
 is_title_year: true # add year to title
 
 # Authors
@@ -8,8 +8,8 @@ is_title_year: true # add year to title
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Serafim Kalliadasis
-  - Andrew B. Duncan
+  - S. Kalliadasis
+  - A. B. Duncan
 
 # Author notes (optional)
 author_notes: 
@@ -29,7 +29,7 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Chemical Physics, 156(7), p.074105, DOI: 10.1063/5.0071629"
+publication: "Journal of Chemical Physics, 156 (7), 074105, DOI: 10.1063/5.0071629"
 publication_short: ''
 
 abstract: This is paper 2 short abstract ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -46,6 +46,9 @@ featured: false
 links:
 - name: URL
   url: https://aip.scitation.org/doi/10.1063/5.0071629
+
+- name: NeurIPS workshop
+  url: https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_86.pdf
 
 url_pdf: ''
 url_code: ''
