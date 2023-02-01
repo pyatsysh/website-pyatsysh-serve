@@ -87,7 +87,7 @@ Before that I worked in classical statistical mechanics of soft matter, developi
   <thead>
     <tr>
       <!-- <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_business.pdf" "newtab" >}}Business CV   {{< /staticref >}}</th> -->
-      <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Yatsyshin_Academic_CV.pdf" "newtab" >}}Academic CV   {{< /staticref >}}</th>
+      <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_academic.pdf" "newtab" >}}Academic CV   {{< /staticref >}}</th>
       <th scope="col">{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Yatsyshin_Teaching_Statement.pdf" "newtab" >}}Teaching Statement{{< /staticref >}}</th>
     </tr>
   </thead>
