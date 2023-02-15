@@ -81,7 +81,7 @@ highlight_name: true
 ---
 Hi, I'm Peter and I live in London. I'm a theoretical physicist, migrated into machine learning. My main research interests presently are in applied probability and computational statistics. I am currently a research associate at The Alan Turing Institute, working with [Andrew Duncan](https://www.turing.ac.uk/people/researchers/andrew-duncan) on scalable methods for statistical inference and machine learning.
 
-Before that I worked in classical statistical mechanics of soft matter, developing models of interface motion and phase transitions. I did my PhD at Imperial College in the area of computational methods for PDEs, arising in classical density functional theory. My supervisor was [Serafim Kalliadasis](https://www.imperial.ac.uk/people/s.kalliadasis).
+Before that I worked in classical statistical mechanics of soft matter, developing models of interface motion and phase transitions. I did my PhD at Imperial College in the area of computational methods for PDEs, arising in classical density functional theory. My PhD thesis supervisor was [Serafim Kalliadasis](https://www.imperial.ac.uk/people/s.kalliadasis).
 
 <!-- Even before that, I was doing my B.Sc. and M.Sc. in theoretical physics. I moved to UK in 2009. I am Ukrainian and did my first degrees in Russia. -->
 
