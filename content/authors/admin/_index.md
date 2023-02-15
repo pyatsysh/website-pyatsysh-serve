@@ -25,20 +25,23 @@ education:
   courses:
     - course: PhD in Computational Statistical Physics
       institution: "[Imperial College London](https://www.imperial.ac.uk/)"
-      year: 2014
+      # year: 2014
     - course: MSc in Theoretical Physics
       institution: "[St-Petersburg Polytechnical University](https://english.spbstu.ru/)"
-      year: 2007
+      # year: 2007
     - course: BSc in Theoretical Physics
       institution: "[St-Petersburg Polytechnical University](https://english.spbstu.ru/)"
-      year: 2005
+      # year: 2005
 
 # Renamed tech stack in en.yaml
 interests:
-  - JAX, Python/Numpy
-  - NumPyro
+  - JAX/PyTorch/TensorFlow
+  - NumPyro/Pyro/PyMC3/Stan
+  - GPy
   - FEniCS 
-  - MATLAB
+  - Python/MATLAB/Julia/C++
+  
+ 
 
 
 
