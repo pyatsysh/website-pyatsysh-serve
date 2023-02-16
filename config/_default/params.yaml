@@ -100,13 +100,16 @@ features:
     zoom: 15
 
 # Extensions
-
+extensions:
+  academicons:
+    enable: true
+    
 extensions:
   cms:
     branch: main
     local_backend: false
   academicons:
-    enable: false # this enables to add a CV icon, next to eamil, twitter, etc
+    enable: true # this enables to add a CV icon, next to eamil, twitter, etc
 
 # Security
 

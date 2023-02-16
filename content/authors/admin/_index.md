@@ -9,11 +9,13 @@ superuser: true
 role: '' #Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
+# ➹
 organizations:
-  - name: The Alan Turing Institute
+  - name: The Alan Turing Institute ➶
     url: https://www.turing.ac.uk/people/researchers/peter-yatsyshin 
+    
   
-  - name: Imperial College London
+  - name: Imperial College London ➶
     url: https://www.imperial.ac.uk/complex-multiscale-systems/our-group/dr-peter-yatsyshin/
   
 
@@ -53,18 +55,29 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:p.yatsyshin@imperial.ac.uk'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?hl=en&user=3lNjiWYAAAAJ
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
+
+  # - icon: twitter
+  #     icon_pack: fab
+  #     link: https://www.researchgate.net/profile/Peter-Yatsyshin
+
+
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Peter-Yatsyshin
+
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/peter-yatsyshin-phd/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
