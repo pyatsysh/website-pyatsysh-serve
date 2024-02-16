@@ -1,0 +1,32 @@
+# Theme metadata
+name = "theme2"
+
+dark = false
+
+[light]
+  # Primary
+  primary = "#BF616A"# # "#B48EAD" #  "#EF525B"
+
+  # menu bar background
+  menu_primary = "#5E81AC" # "#88C0D0" # "#A3BE8C" # "#D8DEE9"# "#ECEFF4" #"#24C2CB"
+  
+  # menu items on the right (research, etc)
+  menu_text =  "#fff" 
+
+  # activated menu item
+  menu_text_active = "#2E3440" #"#A3BE8C"
+  
+  # My name
+  menu_title = "#fff" # "#ECEFF4" #"#2E3440"
+
+  # Backgrounds
+
+  # background on biography section
+  home_section_odd = "#ECEFF4" # "#D8DEE9" #  "#E5E9F0" # "#fff" # "#BF616A" # "#fff" # "#EBCB8B" # "#ECEFF4" #"#D8DEE9"  #"#ECEFF4" #"#D8DEE9" # "#EAE7D6" # "#D8DEE9"
+
+  # background of non-biography (research, blog sections)
+  background = "#ECEFF4" # "#D8DEE9" # "#fff" # "#E5E9F0" # "#D8DEE9" # "#ECEFF4" # "#fff" # "#BF616A" # "#ECEFF4" # "#E5E9F0" # "#ECEFF4" # "#D8DEE9" # "#EAE7D6" 
+  
+
+  # ?
+  home_section_even = "#ECEFF4" # "#BF616A"# "#fff" #"#BF616A" # "#D8DEE9"  #"#ECEFF4" # "#D8DEE9" # "#EAE7D6" #"#D8DEE9"
